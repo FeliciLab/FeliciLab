@@ -1,2 +1,2 @@
 # FeliciLab
-Laboratório de Inovações da Escola de Saúde Pública do Ceará
+Laboratório de Inovação da Escola de Saúde Pública do Ceará
